@@ -1,0 +1,10 @@
+git add README
+
+git commit -m 'first'
+
+git remote add origin https://github.com/ririsu/ri_work.git
+
+git push -u origin master
+Username for 'https://github.com':
+Password for 'https://ririsu@github.com':
+
